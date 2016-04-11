@@ -9,7 +9,7 @@
   "main": "./lib/smpp",
   "repository": {
     "type": "git",
-    "url": "https://github.com/farhadi/node-smpp.git"
+    "url": "https://github.com/dublicator/node-smpp.git"
   },
   "license": "MIT",
   "scripts": {
